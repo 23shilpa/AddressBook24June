@@ -14,7 +14,7 @@ public class WelcomeToAddressBook {
         A1.PhoneNumber();
         A1.city();
     }
-}clear
+}
 class AddressBook{
     String FirstName;
     String LastName;
